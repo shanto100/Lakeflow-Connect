@@ -1,0 +1,391 @@
+Country,Company,Month,Sale2018,Sale2019,Sale2020
+India,SequelGate,January,"3,234.00",,"1,935.00"
+India,SequelGate,February,"6,270.00","7,059.00","12,418.26"
+India,SequelGate,March,"4,352.00","16,638.85","31,770.26"
+India,SequelGate,April,"3,814.00","11,864.76","8,785.89"
+India,SequelGate,May,"6,234.00","2,819.82",119.99
+India,SequelGate,June,"5,571.00","3,216.00","2,819.82"
+India,SequelGate,July,"7,424.00",,"6,881.00"
+
+
+India,SequelGate,August,,,800
+India,SequelGate,September,"1,254.00","1,617.00",396
+India,SequelGate,October,"1,881.00","3,042.00",936
+India,SequelGate,November,,"3,653.00","7,001.78"
+India,SequelGate,December,"6,135.00","2,810.00","8,785.89"
+India,SQL School,January,"12,418.26","5,735.48","1,559.87"
+India,SQL School,February,"31,770.26",,"2,937.90"
+
+
+
+India,SQL School,March,"3,689.85","5,489.23","11,163.94"
+India,SQL School,April,499.9,"9,087.00","2,298.70"
+India,SQL School,May,,"9,203.92",
+India,SQL School,June,"15,790.00",119.99,"1,948.50"
+
+
+
+India,SQL School,July,"9,938.12","2,819.82",
+India,SQL School,August,"14,035.71","6,881.00","12,775.40"
+India,SQL School,September,"16,638.85",,
+India,SQL School,October,"11,864.76",,"2,085.00"
+India,SQL School,November,"2,819.82",959.92,
+India,SQL School,December,,"16,694.07",
+India,Contoso,January,"1,271.55","3,236.31","9,945.86"
+India,Contoso,February,"7,372.34","5,995.55","1,303.01"
+India,Contoso,March,"11,364.07","2,767.32","3,437.26"
+India,Contoso,April,"13,590.94","17,530.47","25,007.74"
+India,Contoso,May,"11,780.08","13,501.47","5,270.05"
+India,Contoso,June,"8,562.00","8,338.87","7,357.26"
+India,Contoso,July,"7,001.78","13,874.09","31,571.42"
+India,Contoso,August,605.89,"3,340.02","1,386.20"
+India,Contoso,September,"3,958.70","1,709.68","2,224.36"
+India,Contoso,October,"8,785.89","5,787.57","10,792.05"
+India,Contoso,November,"7,631.64","2,412.91","3,340.02"
+India,Contoso,December,"21,968.86","5,657.70","1,709.68"
+India,Fabrikam,January,"5,794.38","9,244.97","5,787.57"
+India,Fabrikam  ,February,,"6,230.00",
+India,Fabrikam,March,"3,415.96","1,044.89",
+India,Fabrikam,April,,,"5,155.78"
+India,Fabrikam  ,May,"3,657.95","2,954.00","20,177.94"
+India,Fabrikam,June,"2,820.00","28,407.99","6,223.31"
+India,Fabrikam,July,,"1,439.92","12,530.60"
+India,Fabrikam,August,"7,113.00",,"2,640.00"
+India,Fabrikam  ,September,"5,901.93","4,367.60","20,600.00"
+India,Fabrikam,October,"2,396.06","9,597.93","29,305.77"
+India,Fabrikam,November,"9,477.60","14,941.87",
+India,Fabrikam  ,December,"15,499.94","12,740.00",
+India,Litware,January,,"2,209.73",
+India,Litware,February,,"2,465.00","1,679.88"
+India,Litware,March,4.99,"7,956.00","11,000.00"
+India,Litware,April,599.9,,
+India,Litware ,May,,"11,186.00","2,087.73"
+India,Litware,June,,"2,400.00","1,331.88"
+India,Litware,July,"7,579.00","2,303.85","28,488.15"
+India,Litware,August,"3,340.02","25,599.92","12,619.43"
+India,Litware,September,"1,709.68",591.92,89.97
+India,Litware,October,"5,787.57","5,525.81","6,205.48"
+India,Litware,November,,"3,451.00",
+India,Litware,December,"1,199.96","11,164.00",
+India,DogWings,January,"34,616.15",359.66,
+India,DogWings,February,51.38,,95.9
+India,DogWings,March,"7,999.50",,
+India,DogWings,April,,"12,732.30",
+India,DogWings,May,"25,598.40","3,340.02",
+India,DogWings,July,51.38,"1,709.68",359.66
+India,DogWings,August,154.14,"5,787.57",
+India,DogWings,September,25.69,,569.25
+India,DogWings,December,51.38,,"3,340.02"
+India,Proseware,January,,735,"1,709.68"
+India,Proseware,February,"2,847.00","4,509.99","5,787.57"
+India,Proseware,March,"4,489.89","3,347.88","1,325.87"
+India,Proseware,April,719,"10,447.77","5,104.93"
+India,Proseware,May,,"1,749.00",
+India,Proseware,June,952,"3,555.00","6,903.91"
+India,Proseware,July,,"1,029.00","1,149.90"
+India,Proseware,August,"1,399.93",,"1,831.50"
+India,Proseware,September,"37,923.00","1,908.00","1,548.00"
+India,Proseware,October,,,959.92
+India,Proseware,November,,"1,399.93","11,000.00"
+India,Proseware,December,"12,987.00",599.98,
+India,Vimeo,January,"2,255.94","4,683.56","4,858.80"
+India,Vimeo,February,"1,775.85",632,141.84
+India,Vimeo,March,980.4,,
+India,Vimeo,April,75.99,388.49,
+India,Vimeo,May,41.73,1.9,"1,485.00"
+India,Vimeo,June,"10,280.89","1,461.46",
+India,Vimeo,July,"4,226.88","2,625.00","11,376.00"
+India,Vimeo,August,"13,740.38","1,035.90","5,687.94"
+India,Vimeo,September,632.79,"3,510.00",199
+India,Vimeo,October,"1,084.10",,"1,481.74"
+India,Vimeo,November,"1,439.64",,
+India,Vimeo,December,753.69,"9,817.96",
+India,Children Toys,January,,,698
+India,Children Toys,February,71.92,,"1,303.53"
+India,Children Toys,March,310,288,
+India,Children Toys,April,104.85,172,752.9
+India,Children Toys,May,214,436,69.86
+India,Children Toys,June,62.93,644.78,"1,777.87"
+India,Children Toys,July,86,813,731.12
+India,Children Toys,August,272.89,,"3,510.00"
+India,Children Toys,September,219.57,,"1,114.00"
+India,Children Toys,October,,458,743.87
+India,Children Toys,November,140,,"3,340.02"
+India,Children Toys,December,225.23,,"1,709.68"
+India,Mobile Phones,January,,"3,296.00","5,787.57"
+India,Mobile Phones,February,"2,408.00",,
+India,Mobile Phones,March,690,,
+India,Mobile Phones,April,,,"7,862.00"
+India,Mobile Phones,May,"1,960.00",560,"2,300.00"
+India,Mobile Phones,June,"1,340.00","7,596.00",714
+India,Mobile Phones,July,,"3,600.00",
+India,Mobile Phones,August,,,"7,013.00"
+India,Mobile Phones,September,"1,980.00","2,890.00","7,371.00"
+India,Mobile Phones,October,"2,384.00","3,510.00",
+India,Mobile Phones,November,"4,046.00","2,400.00",
+India,Mobile Phones,December,,"9,391.00",
+India,BarnesNobles,February,459.8,,"4,413.35"
+India,BarnesNobles,March,,"3,127.70","3,012.00"
+India,BarnesNobles,April,"11,182.00",,"9,264.89"
+India,BarnesNobles,May,,765.9,"1,199.25"
+India,BarnesNobles,June,"3,238.80","18,576.50","6,269.67"
+India,BarnesNobles,July,"2,199.50","9,493.05","3,784.00"
+India,BarnesNobles,August,"4,537.00",,101.99
+India,BarnesNobles,September,59.98,"1,342.50",
+India,BarnesNobles,October,,"4,407.00","7,545.97"
+India,BarnesNobles,November,"5,049.96","10,647.00",
+Germany,SequelGate,January,"6,270.00",,
+Germany,SequelGate,February,"11,790.00",,"2,072.00"
+Germany,SequelGate,March,"5,016.00","3,215.00","8,151.00"
+Germany,SequelGate,April,"6,835.50","2,310.00",594
+Germany,SequelGate,May,"10,520.50","3,325.50",
+Germany,SequelGate,June,"7,056.00",,"1,504.00"
+Germany,SequelGate,July,"8,778.00","1,800.00",
+Germany,SequelGate,August,"1,848.00",,"1,560.00"
+Germany,SequelGate,September,"3,762.00","3,072.30",
+Germany,SequelGate,October,"5,724.00",,373.8
+Germany,SequelGate,November,"2,838.00","3,312.00",
+Germany,SequelGate,December,"2,829.20","1,740.00","3,510.00"
+Germany,SQL School,January,"6,249.47",,719.55
+Germany,SQL School,February,"8,711.52","2,934.00","1,780.00"
+Germany,SQL School,March,"22,928.18",,559.65
+Germany,SQL School,April,"6,609.51",269.91,
+Germany,SQL School,May,"3,289.79","2,583.00","7,461.79"
+Germany,SQL School,June,"2,349.85",,"2,327.00"
+Germany,SQL School,July,"4,229.73","5,592.00","1,439.88"
+Germany,SQL School,August,"5,579.48",,"3,340.02"
+Germany,SQL School,September,"6,769.61",599.98,"1,709.68"
+Germany,SQL School,October,"2,943.85","4,794.79","5,787.57"
+Germany,SQL School,November,"3,623.91",,
+Germany,SQL School,December,"2,879.12","1,268.97",
+Germany,Contoso,January,"8,172.92",93.78,"6,800.52"
+Germany,Contoso,February,"4,672.77","7,585.29","1,707.56"
+Germany,Contoso,March,"12,430.38","2,683.39","5,318.82"
+Germany,Contoso,April,"9,626.06",241.77,"3,324.75"
+Germany,Contoso,May,"11,868.03","5,273.61","1,462.52"
+Germany,Contoso,June,"2,743.85",373.52,"3,598.86"
+Germany,Contoso,July,"28,791.79","2,150.36",862.27
+Germany,Contoso,August,"7,739.76",613.29,"19,234.36"
+Germany,Contoso,September,"13,894.28","9,406.25","5,011.40"
+Germany,Contoso,October,"12,675.45","2,699.85","1,815.87"
+Germany,Contoso,November,"16,987.67","6,745.82",
+Germany,Contoso,December,"3,469.89","3,085.07",
+Germany,Fabrikam,January,,"1,415.20",129.99
+Germany,Fabrikam,February,"3,573.93",,"3,249.00"
+Germany,Fabrikam,March,"3,032.00","2,670.00",
+Germany,Fabrikam  ,April,"2,279.97","16,050.00","6,392.00"
+Germany,Fabrikam,May,"2,447.92","1,109.91","37,495.89"
+Germany,Fabrikam  ,June,"18,966.80",,
+Germany,Fabrikam  ,July,"6,100.00",,"3,817.60"
+Germany,Fabrikam,August,129.99,632,980
+Germany,Fabrikam  ,September,"5,859.00",199.99,
+Germany,Fabrikam,October,99.99,,
+Germany,Fabrikam  ,November,"5,660.00","5,059.89",
+Germany,Fabrikam,December,"1,799.94",,
+Germany,Litware,January,"5,327.52",39.92,"7,631.88"
+Germany,Litware,February,369.95,,134.91
+Germany,Litware,March,"8,742.72",59.94,"13,786.73"
+Germany,Litware,April,"5,497.81","1,013.85",949.9
+Germany,Litware,May,"2,169.91","8,950.67","29,579.85"
+Germany,Litware ,June,,"6,683.89","3,859.33"
+Germany,Litware,July,359.98,"4,339.77","1,434.66"
+Germany,Litware ,August,"1,184.94","1,079.60",
+Germany,Litware,September,,"6,175.39",809.91
+Germany,Litware,October,699.93,"3,518.78",404.85
+Germany,Litware,November,"22,399.93",,
+Germany,Litware,December,"5,274.57",,
+Germany,DogWings,January,77.07,,
+Germany,DogWings,February,"5,508.08",,
+Germany,DogWings,March,205.52,,81.1
+Germany,DogWings,April,308.28,,
+Germany,DogWings,May,154.14,,
+Germany,DogWings,June,25.69,,569.25
+Germany,DogWings,September,77.07,341.55,
+Germany,DogWings,December,"18,570.30",,
+Germany,Proseware,January,,,"13,423.91"
+Germany,Proseware,February,79,,
+Germany,Proseware,March,79.95,"8,014.43","2,226.00"
+Germany,Proseware,April,299,,"5,688.87"
+Germany,Proseware,May,"5,655.88","4,738.86","3,820.00"
+Germany,Proseware,June,815.92,,"22,000.00"
+Germany,Proseware,July,,"3,489.94","1,520.00"
+Germany,Proseware,August,,"3,299.89","8,474.89"
+Germany,Proseware,September,"2,463.00","5,475.00","1,170.00"
+Germany,Proseware,October,"13,568.78",728,"2,290.00"
+Germany,Proseware,November,,443.98,
+Germany,Proseware,December,"1,089.00",,
+Germany,Vimeo,January,"1,894.62",660,876
+Germany,Vimeo,February,"1,220.10",87.05,"3,844.85"
+Germany,Vimeo,March,"2,003.88",97.02,"2,105.88"
+Germany,Vimeo,April,"6,538.73",,
+Germany,Vimeo,May,"3,242.61",657,598
+Germany,Vimeo,June,"1,443.93",88,161.1
+Germany,Vimeo,July,"1,553.70",271.5,"6,563.00"
+Germany,Vimeo,August,"2,385.27",,960.04
+Germany,Vimeo,September,"3,678.96",987.87,
+Germany,Vimeo,October,"5,296.42",396,124.32
+Germany,Vimeo,November,262.6,694.56,
+Germany,Vimeo,December,741.69,660.41,
+Germany,Children Toys,January,"1,076.00",561.04,258
+Germany,Children Toys,February,84,258,480
+Germany,Children Toys,March,"1,917.82",77,392
+Germany,Children Toys,April,96,923.29,389.4
+Germany,Children Toys,May,,340,"1,375.00"
+Germany,Children Toys,June,,,608
+Germany,Children Toys,July,,172,"1,589.56"
+Germany,Children Toys,August,90.87,,733.04
+Germany,Children Toys,September,192,,180.36
+Germany,Children Toys,October,638.4,280.52,"1,219.43"
+Germany,Children Toys,December,301,161,
+Germany,Mobile Phones,January,"1,650.00","1,465.00",
+Germany,Mobile Phones,February,,"2,170.00","3,615.00"
+Germany,Mobile Phones,March,460,,
+Germany,Mobile Phones,April,,,"6,479.00"
+Germany,Mobile Phones,May,,,"2,430.00"
+Germany,Mobile Phones,June,,"1,400.00",
+Germany,Mobile Phones,July,,,"2,152.00"
+Germany,Mobile Phones,September,"2,168.00","5,490.00",
+Germany,Mobile Phones,October,"4,588.00",924,"1,592.00"
+Germany,Mobile Phones,November,"4,166.00",129,
+Germany,Mobile Phones,December,,"2,312.00",
+Germany,BarnesNobles,January,879.8,"23,648.70","1,799.40"
+Germany,BarnesNobles,February,,"4,130.80","1,039.35"
+Germany,BarnesNobles,March,"1,198.00",,"9,506.00"
+Germany,BarnesNobles,April,,"4,746.00",179.94
+Germany,BarnesNobles,May,899.7,,"1,161.00"
+Germany,BarnesNobles,June,,179.94,575
+Germany,BarnesNobles,July,"2,429.10","2,231.00","13,770.00"
+Germany,BarnesNobles,August,"3,689.90","2,759.88",539.8
+Germany,BarnesNobles,September,,"1,145.00","5,967.00"
+Germany,BarnesNobles,October,594,203.98,
+Germany,BarnesNobles,November,,"18,360.00",
+Germany,BarnesNobles,December,"8,349.89","2,529.89",
+United States,SequelGate,January,"5,016.00",,"3,492.00"
+United States,SequelGate,February,"5,794.00",,"10,336.00"
+United States,SequelGate,March,"2,508.00",188.5,
+United States,SequelGate,April,"4,100.00",186.9,"1,014.00"
+United States,SequelGate,May,"1,881.00","1,386.00","4,439.00"
+United States,SequelGate,June,"3,335.00",495,"3,240.00"
+United States,SequelGate,July,"4,639.00",,"2,983.50"
+United States,SequelGate,August,"3,762.00",664,"2,225.00"
+United States,SequelGate,September,"13,894.00","1,604.00",
+United States,SequelGate,October,"2,503.00",,
+United States,SequelGate,November,"4,907.10","3,718.00",
+United States,SequelGate,December,627,627,
+United States,SQL School,January,"8,459.46","1,968.69",
+United States,SQL School,February,"11,749.25","4,049.25",129
+United States,SQL School,March,"16,598.22","9,659.79","2,086.00"
+United States,SQL School,April,"22,067.57","2,338.00",297
+United States,SQL School,May,"9,869.37",,
+United States,SQL School,June,"10,757.16",,
+United States,SQL School,July,"9,869.37","5,056.00","3,550.87"
+United States,SQL School,August,939.94,"1,566.00","4,451.93"
+United States,SQL School,September,"3,759.76","2,058.40","2,670.00"
+United States,SQL School,October,,,399.75
+United States,SQL School,November,"4,699.70",,
+United States,SQL School,December,"19,734.89","2,953.50",
+United States,Contoso,January,"8,506.88",605.55,"11,839.98"
+United States,Contoso,February,"5,629.26","5,433.80","17,029.47"
+United States,Contoso,March,"6,733.86","8,314.54","1,770.10"
+United States,Contoso,April,"17,433.79","1,850.16","1,714.55"
+United States,Contoso,May,"7,133.14",921.35,"7,049.65"
+United States,Contoso,June,"5,356.89","3,325.74","16,701.42"
+United States,Contoso,July,"4,770.20","2,634.27","2,181.66"
+United States,Contoso,August,"15,159.15","25,590.05","4,445.18"
+United States,Contoso,September,"6,232.99","3,786.22","10,863.67"
+United States,Contoso,October,"18,206.65","1,089.45","7,950.51"
+United States,Contoso,November,"8,218.20","15,254.44",
+United States,Contoso,December,"42,184.42","9,811.38",
+United States,Fabrikam  ,January,,"15,184.00","4,560.00"
+United States,Fabrikam  ,February,"2,310.00","3,992.00",
+United States,Fabrikam,March,,"6,136.00","1,344.00"
+United States,Fabrikam,April,"11,882.00","8,423.90","1,818.85"
+United States,Fabrikam,May,719.96,"26,127.80","16,343.80"
+United States,Fabrikam,June,"12,910.36","4,338.00","2,531.00"
+United States,Fabrikam,July,"1,169.91",,799.92
+United States,Fabrikam,August,,"15,133.00","4,914.00"
+United States,Fabrikam,September,"4,930.00","29,011.00","4,264.00"
+United States,Fabrikam,October,"7,704.00","3,135.00","2,324.00"
+United States,Fabrikam  ,November,"3,038.00","17,404.60",
+United States,Fabrikam  ,December,"11,872.00",,
+United States,Litware,January,,,"6,293.00"
+United States,Litware,February,,,"1,689.87"
+United States,Litware,March,180,449.9,"12,692.95"
+United States,Litware,April,,"23,715.00","13,986.00"
+United States,Litware,May,"7,054.98","9,659.91","8,267.47"
+United States,Litware,June,,"1,399.93","1,073.90"
+United States,Litware,July,"1,829.89","1,867.91","1,676.44"
+United States,Litware,August,"1,439.92","38,807.84",139.86
+United States,Litware,September,"1,439.92","24,373.99","4,183.72"
+United States,Litware,October,,"10,733.80",
+United States,Litware,November,"19,229.82","9,065.85",
+United States,Litware,December,"4,199.85","2,359.30",
+United States,DogWings,January,102.76,,243.3
+United States,DogWings,February,77.07,,99.99
+United States,DogWings,March,154.14,,
+United States,DogWings,April,128.45,,623.35
+United States,DogWings,June,128.45,,
+United States,DogWings,July,"27,360.57","10,913.40",527.45
+United States,DogWings,September,102.76,287.7,"12,732.30"
+United States,DogWings,October,205.52,,
+United States,DogWings,November,"21,826.80",,
+United States,DogWings,December,102.76,,
+United States,Proseware,January,,,596
+United States,Proseware,February,,,"3,669.97"
+United States,Proseware,March,980,390,
+United States,Proseware,April,872,"6,589.00","6,432.80"
+United States,Proseware,May,136,"9,976.00","1,199.96"
+United States,Proseware,June,"1,832.00",973,
+United States,Proseware,July,,"3,895.00","4,799.88"
+United States,Proseware,August,"1,807.00","3,331.00","11,375.46"
+United States,Proseware,September,"21,903.00","9,739.84","2,219.00"
+United States,Proseware,October,489,"1,818.00","2,579.94"
+United States,Proseware,November,645,"1,692.00",
+United States,Proseware,December,"7,528.88","3,242.00",
+United States,Vimeo,January,"3,377.10",59.29,
+United States,Vimeo,February,"6,502.75",479.97,792
+United States,Vimeo,March,"6,143.27",598,
+United States,Vimeo,April,"2,896.17","1,817.11","4,675.00"
+United States,Vimeo,May,"4,897.73","4,841.85","1,838.50"
+United States,Vimeo,June,"3,276.68",,
+United States,Vimeo,July,"2,849.09",625.95,"3,169.99"
+United States,Vimeo,August,"4,148.15",332.71,96.32
+United States,Vimeo,September,"1,395.90","4,718.87","10,774.90"
+United States,Vimeo,October,318.9,"2,628.00",113.94
+United States,Vimeo,November,"2,047.39","2,710.75",
+United States,Vimeo,December,"4,038.72",311.8,
+United States,Children Toys,January,519.87,307.9,491
+United States,Children Toys,February,,,499.86
+United States,Children Toys,March,,663.83,
+United States,Children Toys,April,,702.5,
+United States,Children Toys,May,297.21,,
+United States,Children Toys,June,267,435.85,454
+United States,Children Toys,July,258,280.52,792.87
+United States,Children Toys,August,359.57,74.85,
+United States,Children Toys,September,430,,
+United States,Children Toys,October,834.91,,
+United States,Children Toys,November,86,619.08,
+United States,Children Toys,December,927.56,56,
+United States,Mobile Phones,January,510,,
+United States,Mobile Phones,February,,,"1,345.00"
+United States,Mobile Phones,April,"1,812.00",,
+United States,Mobile Phones,May,"3,890.00","7,068.00","6,284.00"
+United States,Mobile Phones,June,"6,686.00",,
+United States,Mobile Phones,July,,"2,680.00","1,602.00"
+United States,Mobile Phones,August,,"5,017.00",
+United States,Mobile Phones,September,"1,161.00",,"1,160.00"
+United States,Mobile Phones,November,,"7,069.00",
+United States,BarnesNobles,January,,,"4,451.93"
+United States,BarnesNobles,February,"2,299.00","10,971.90",
+United States,BarnesNobles,March,"4,771.00","5,065.60",
+United States,BarnesNobles,April,,"6,329.86","6,314.00"
+United States,BarnesNobles,May,"2,748.00","3,887.00",
+United States,BarnesNobles,June,,"3,012.00","5,008.20"
+United States,BarnesNobles,July,"1,289.57","9,828.00","2,875.86"
+United States,BarnesNobles,August,319.8,"17,169.15",
+United States,BarnesNobles,September,"2,199.45",,599.8
+United States,BarnesNobles,October,471.8,,"11,985.00"
+United States,BarnesNobles,November,,727.25,
+United States,BarnesNobles,December,,"3,818.75",
+United States,BarnesNobles,November,,727.25,"10,788.00"
+United States,BarnesNobles,December,,"3,818.75",
